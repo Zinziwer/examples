@@ -1,0 +1,15 @@
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.csproj.AssemblyReference.cache
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.AssemblyInfoInputs.cache
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.AssemblyInfo.cs
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.csproj.CoreCompileInputs.cache
+C:\GeekBrains\exemples\Masha\bin\Debug\net6.0\Masha.exe
+C:\GeekBrains\exemples\Masha\bin\Debug\net6.0\Masha.deps.json
+C:\GeekBrains\exemples\Masha\bin\Debug\net6.0\Masha.runtimeconfig.json
+C:\GeekBrains\exemples\Masha\bin\Debug\net6.0\Masha.dll
+C:\GeekBrains\exemples\Masha\bin\Debug\net6.0\Masha.pdb
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.dll
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\refint\Masha.dll
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.pdb
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\Masha.genruntimeconfig.cache
+C:\GeekBrains\exemples\Masha\obj\Debug\net6.0\ref\Masha.dll

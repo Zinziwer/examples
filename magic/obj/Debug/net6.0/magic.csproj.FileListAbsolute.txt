@@ -1,0 +1,15 @@
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.csproj.AssemblyReference.cache
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.AssemblyInfoInputs.cache
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.AssemblyInfo.cs
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.csproj.CoreCompileInputs.cache
+C:\GeekBrains\exemples\magic\bin\Debug\net6.0\magic.exe
+C:\GeekBrains\exemples\magic\bin\Debug\net6.0\magic.deps.json
+C:\GeekBrains\exemples\magic\bin\Debug\net6.0\magic.runtimeconfig.json
+C:\GeekBrains\exemples\magic\bin\Debug\net6.0\magic.dll
+C:\GeekBrains\exemples\magic\bin\Debug\net6.0\magic.pdb
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.dll
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\refint\magic.dll
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.pdb
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\magic.genruntimeconfig.cache
+C:\GeekBrains\exemples\magic\obj\Debug\net6.0\ref\magic.dll
